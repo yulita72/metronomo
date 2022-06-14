@@ -1,0 +1,38 @@
+#boton1{
+    width: 150px;
+    height: 100px;
+    margin-left: 10%;
+    border-radius: 10%;
+
+   
+}
+.container{
+    width: 50%;
+    height: 200px;
+    margin: auto;
+    border: 1px solid black;
+    position: relative;
+    display: flex;
+    align-items: center;
+    background-color: bisque;
+    
+    
+}
+
+.titulo {	text-align: center;}
+
+#tempoActual{
+    
+    text-align: center;
+}
+
+#indicTempo{ 
+    text-align: center;
+    -webkit-text-stroke: 1px black;
+    font-size: 40px;
+ }
+
+ .interno{
+    width: 50%;
+    display:block;
+ }
